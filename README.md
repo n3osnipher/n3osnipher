@@ -1,24 +1,9 @@
-<div align="center">
-
-```
-██████╗ ██████╗ ██╗   ██╗ ██████╗███████╗
-██╔══██╗██╔══██╗██║   ██║██╔════╝██╔════╝
-██████╔╝██████╔╝██║   ██║██║     █████╗
-██╔══██╗██╔══██╗██║   ██║██║     ██╔══╝
-██████╔╝██║  ██║╚██████╔╝╚██████╗███████╗
-╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚══════╝
-```
-
-### `whoami`
-
-</div>
-
 > *"The quieter you become, the more you're able to hear."*
 
 <br>
 
 ```bash
-bruce@arch ~ % cat identity.log
+bruce@n3osnipher ~ % cat identity.log
 ```
 
 ```
@@ -38,7 +23,6 @@ bruce@arch ~ % cat identity.log
 🖥️   Hands-on labs — VMs, network simulations, attack ranges
 🐍  Python-based security tooling and automation
 🚀  Secure web app deployment and infrastructure hardening
-🎯  Grinding toward eJPT / PNPT
 ```
 
 <br>
@@ -85,7 +69,7 @@ bruce@arch ~ % cat identity.log
 <div align="center">
 
 ```
-[ EOF ]  —  stay quiet, stay curious
+stay quiet, stay curious
 ```
 
 </div>

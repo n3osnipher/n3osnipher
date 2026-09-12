@@ -10,8 +10,7 @@ bruce@n3osnipher ~ % cat identity.log
 [+] Handle       : Bruce Ominde
 [+] Status       : fsociety.dat not found — running solo
 [+] Focus        : Cybersecurity | Networking | Cloud Security
-[+] Currently    : building, breaking, and hardening things
-[+] Objective    : SOC Analyst | Security Engineer | Systems Administrator
+[+] Currently    : building, breaking, and hardening things 
 ```
 
 <br>
@@ -65,11 +64,5 @@ bruce@n3osnipher ~ % cat identity.log
 </div>
 
 <br>
-
-<div align="center">
-
-```
-stay quiet, stay curious
-```
 
 </div>

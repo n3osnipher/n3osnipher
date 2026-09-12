@@ -2,7 +2,7 @@
 
 <br>
 
-```bash
+```
 bruce@n3osnipher ~ % cat identity.log
 ```
 

@@ -3,7 +3,7 @@
 <br>
 
 ```
-bruce@n3osnipher ~ % cat identity.log
+### `> bruce@n3osnipher ~ % cat identity.log
 ```
 
 ```
